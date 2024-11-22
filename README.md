@@ -7,3 +7,4 @@
 - Inline Assembly: https://docs.google.com/document/d/1nMLr1UnKEW9lQjOsPao35cBLlYYmv_RUrBPcPqqRjbM/edit?tab=t.0
 - Cheatsheet: https://docs.google.com/document/d/1TyLFLiMNEg6hpwUlAC4eYxE50SA_ZEYar0PMzKEdQGI/edit?tab=t.0
 - using the compiler: https://docs.google.com/document/d/1aePlYjcTVq2we1pF76dxzKgUqXtaryYbVj8LUODaO_Q/edit?tab=t.0
+- Analysing the complier output: https://docs.google.com/document/d/1gnZt6e7froRrSujaZ81xhpHhyUWFzcxQsJaaR73etaM/edit?tab=t.0
